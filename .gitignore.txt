@@ -1,0 +1,41 @@
+# Vivado project ignores
+
+# Build and cache folders
+*.runs/
+*.cache/
+*.hw/
+*.data/
+*.Xil/
+*.ip_user_files/
+
+# Logs and temporary files
+*.jou
+*.log
+*.str
+*.wdb
+*.html
+*.xml
+*.tmp
+*.bak
+
+# Simulation and waveform outputs
+*.vcd
+*.wcfg
+
+# Checkpoints and reports
+*.dcp
+*.rpt
+*.pb
+
+# System/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Optional project file (uncomment if you want to ignore it)
+# *.xpr
+
+# Keep your source and constraint folders
+# /DLD 1205 Final.srcs/
+# /DLD 1205 Final.sim/
